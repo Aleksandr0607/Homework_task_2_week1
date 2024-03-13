@@ -1,0 +1,28 @@
+.main_body {
+    background-color: rgb(246, 246, 246);
+    padding: 50px 20px 100px 10px;
+    margin: 50px 400px auto 380px;
+}
+
+.first_line p,
+.second_line p {
+    display: inline;
+    font-size: 40px;
+    background-color: rgb(200, 200, 200);
+    padding: 5px 10px 5px 10px;
+    margin: 2px 2px auto 2px;
+}
+
+.black {
+    color: black;
+}
+
+.red {
+    color: rgb(152, 0, 0);
+}
+
+.player_1,
+.player_2 {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
