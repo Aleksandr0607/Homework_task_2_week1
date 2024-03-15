@@ -1,7 +1,15 @@
+body {
+    margin: 0% auto;
+}
+
 .main_body {
     background-color: rgb(246, 246, 246);
-    padding: 50px 20px 100px 10px;
-    margin: 50px 550px 10px 500px;
+    width: 470px;
+    height: 250px;
+    margin-left: 35%;
+    margin-top: 5%;
+    padding: 10px;
+
 }
 
 .first_line p,
@@ -9,8 +17,8 @@
     display: inline;
     font-size: 40px;
     background-color: rgb(200, 200, 200);
-    padding: 5px 10px 5px 10px;
-    margin: 2px 2px auto 2px;
+    padding: 5px 10px;
+    margin: 1px;
 }
 
 .black {
