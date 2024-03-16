@@ -6,11 +6,15 @@ body {
 
 .main_body {
     background-color: rgb(246, 246, 246);
-    width: 470px;
-    height: 50%px;
+    width: 500px;
+    height: 250px;
     position: absolute;
-    margin-top: 0% auto;
-    padding: 10px;
+    left: 0;
+    right: 0;
+    margin: 0% auto;
+    margin-top: 20px;
+    padding: 20px;
+
 
 }
 
